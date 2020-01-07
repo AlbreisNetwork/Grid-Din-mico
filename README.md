@@ -8,4 +8,4 @@ Preview: https://www.albreis.com.br/Grid-Dinamico/index.html
 
 Este grid ainda está em fase de testes e pode haver bugs.
 
-Qualquer dúvida entre em contato pelo whatsapp: (51) 995 085 747
+Qualquer dúvida entre em contato pelo whatsapp: (51) 9.8110-8038
